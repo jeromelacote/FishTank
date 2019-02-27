@@ -1,7 +1,7 @@
 
-#**------------ FishTank -------------**
+**------------ FishTank -------------**
 
-##https://github.com/jeromelacote/FishTank
+https://github.com/jeromelacote/FishTank
 
 By mail@jeromelacote.com - more at www.thenewburo.com
 
