@@ -36,11 +36,11 @@ We hook the temperature sensor in, it stores temp data on SD card (some kind of 
 This is the grand idea so you'll have to tell me if these are possibilities:
 Along with what I mentioned above, I would also like it to send current temperature to an LCD screen in addition to the temp that we want to set the tank to. So if the current temp is 73 and we want it at 77, we would press a button to turn the heater on that we will have wired to it.  Once it hits that temperature, the heater would turn off.  Please let me know what you think of this part and if it is realistic or if anything about it needs to change.
 
-the materials: 
-Arduino Uno
-the DS18B20 waterproof temperature monitor. and 5k resistor
-WINGONEER 5PCS Micro SD TF card reader module SPI interface with chip level conversion
-SanDisk Mobile Class4 MicroSDHC Flash Memory Card- SDSDQM-B35A with Adapter 16GB
-IOT Power relay
-LCD screen with Keypad
+**the materials:** 
+- Arduino Uno
+- the DS18B20 waterproof temperature monitor. and 5k resistor
+- WINGONEER 5PCS Micro SD TF card reader module SPI interface with chip level conversion
+- SanDisk Mobile Class4 MicroSDHC Flash Memory Card- SDSDQM-B35A with Adapter 16GB
+- IOT Power relay
+- LCD screen with Keypad
 
